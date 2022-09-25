@@ -12,11 +12,15 @@
 - Undergraduate junior in information engineering
 
 
-- Nice to meet you.
-- The future lies ahead, and life continues.
-- No matter where you are, we should work together. Hscy
+Nice to meet you.
 
-- Of course, this page is still being updated.
+The future lies ahead, and life continues.
+
+No matter where you are, we should work together. Hscy
+
+Of course, this page is still being updated.
+
+
 
 -🔭  Currently studying web security
 
