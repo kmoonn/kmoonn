@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi, this is Hushan. You can call me kmoon 👋
 
-<!--
-**kmoonn/kmoonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  😄  In the same month, all things are clear.
 
-Here are some ideas to get you started:
+- In 2002
+-  🚹 Boy
+-  ♈ Aries
+- From Mountain City Chongqing
+- Town Wrong Title Book
+- Non entry white hat
+- A small writer of eighteen lines
+- Undergraduate junior in information engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Nice to meet you.
+- The future lies ahead, and life continues.
+- No matter where you are, we should work together. Hscy
+
+- Of course, this page is still being updated.
+
+-🔭  Currently studying web security
+-🌱  Currently studying computer network and C++programming
+-📫  How to contact me:
+Email： 3453863492@qq.com
+QQ：3453863492
+VX：Qstyy_ hs
