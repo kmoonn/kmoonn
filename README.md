@@ -2,7 +2,7 @@
 
 -  😄  In the same month, all things are clear.
 
-- In 2002
+
 -  🚹 Boy
 -  ♈ Aries
 - From Mountain City Chongqing
