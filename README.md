@@ -16,7 +16,7 @@
 - Town Wrong Title Book
 - Non entry white hat hacker
 - A small writer of eighteen lines
-- Undergraduate junior in information engineering
+- Master's degree in Software Engineering is currently being pursued
 
 
 Nice to meet you.
@@ -38,7 +38,5 @@ Of course, this page is still being updated.
 Email： hushan@kmoon.fun
 
 QQ：3453863492
-
-Wechat：Qstyy_ hs
 
 ![](assets/Bottom_down.svg)
