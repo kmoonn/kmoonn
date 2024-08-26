@@ -11,7 +11,7 @@
 
 ## ✍ Heard is familiar, used is proficient
 
-<img src="https://skill-icons.lolicon.io/icons?i=py,pycharm,cloudflare,fastapi,flask,git,github,html,idea,java,js,linux,md,mysql,mongodb,php,postman,powershell,paddlepaddle,sublime,sklearn,ubuntu,vim,visualstudio,vscode,windows,bootstrap&perline=14" />
+<img src="https://skill-icons.lolicon.io/icons?i=py,pycharm,cloudflare,fastapi,flask,git,github,html,idea,java,js,linux,md,mysql,mongodb,php,postman,powershell,sublime,sklearn,ubuntu,vim,visualstudio,vscode,windows,bootstrap&perline=14" />
 
 
 - 🚹 Boy
@@ -51,7 +51,7 @@ My Baby Girl Moonlight!
 
 **📫 How to Reach me:**
 
-[E-Mail](mailto:hushan@kmoon.fun)
+[E-Mail](mailto:hushan@kmoon.fun): hushan@kmoon.fun
 
 QQ：3453863492
 
