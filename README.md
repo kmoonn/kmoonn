@@ -51,7 +51,7 @@ My Baby Girl Moonlight!
 
 **📫 How to Reach me:**
 
-[E-Mail](mailto:hushan@kmoon.fun): hushan@kmoon.fun
+E-Mail: hushan@kmoon.fun
 
 QQ：3453863492
 
