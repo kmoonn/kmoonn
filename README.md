@@ -7,7 +7,7 @@
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.lolicon.io/?username=kmoonn&show_icons=true&bg_color=30,fafafa,f0f0f0" alt="kmoonn's GitHub Stats" height="185px" /> <img src="https://github-readme-stats.lolicon.io/top-langs?username=kmoonn&layout=compact&langs_count=8&bg_color=30,fafafa,f0f0f0" alt="kmoonn's GitHub Top Langs" height="185px" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmoonn)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✍ Heard is familiar, used is proficient
 
