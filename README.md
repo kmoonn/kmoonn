@@ -1,6 +1,6 @@
 ### Hi, this is Hushan. You can call me kmoon 👋
 
-### 😄  In the same month, all things are clear.
+### 😄 Single moon, countless peaks — Universal spring awakes.
 
 
 [![](https://img.shields.io/badge/blog-kmoon-brightgreen?style=for-the-badge&logo=hexo)](https://kmoon.fun) 
