@@ -28,8 +28,6 @@
 
 - Master's degree in Software Engineering is currently being pursued
 
-  
-
 
 Nice to meet you.
 
@@ -44,14 +42,9 @@ My Baby Girl Moonlight!
 <img src="https://image.kmoon.fun/2025/202505131538934.jpg" style="width:50%;" />
 
 
-
--🔭  Currently studying Test development, Web security and privacy-preserving deep learning
-
--🌱  Currently studying computer network and C++programming
-
 **📫 How to Reach me:**
 
-E-Mail: hushan@kmoon.fun
+Email: hushan@kmoon.fun
 
 QQ：3453863492
 
