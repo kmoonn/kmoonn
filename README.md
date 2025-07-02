@@ -41,7 +41,7 @@ Of course, this page is still being updated.
 
 My Baby Girl Moonlight!
 
-<img src="https://image.kmoon.fun/2025/202505131538934.jpg" style="zoom: 20%;" />
+<img src="https://image.kmoon.fun/2025/202505131538934.jpg" style="width:50%;" />
 
 
 
