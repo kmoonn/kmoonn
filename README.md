@@ -2,9 +2,6 @@
 
 ### 😄 Single moon, countless peaks — Universal spring awakes.
 
-
-[![](https://img.shields.io/badge/blog-kmoon-brightgreen?style=for-the-badge&logo=hexo)](https://kmoon.fun) 
-
 ## 📈 GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmoonn)](https://github.com/anuraghazra/github-readme-stats)
@@ -40,7 +37,7 @@ Of course, this page is still being updated.
 My Baby Girl Moonlight!
 
 <img src="https://image.kmoon.fun/2025/202505131538934.jpg" style="width:50%;" />
-
+![](assets/baby.jpg)
 
 **📫 How to Reach me:**
 
