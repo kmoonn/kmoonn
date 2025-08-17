@@ -36,8 +36,7 @@ Of course, this page is still being updated.
 
 My Baby Girl Moonlight!
 
-<img src="https://image.kmoon.fun/2025/202505131538934.jpg" style="width:50%;" />
-![](assets/baby.jpg)
+<img src="assets/202505131538934.jpg" style="width:50%;" />
 
 **📫 How to Reach me:**
 
