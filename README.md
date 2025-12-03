@@ -4,7 +4,7 @@
 
 ## ✍ Heard is familiar, used is proficient
 
-<img src="https://skillicons.dev/icons?i=notion,sublime,obsidian,py,pycharm,qt,vercel,vim,anaconda,redis,jenkins,kotlin,androidstudio,sqlite,gradle,kali,cloudflare,fastapi,flask,django,git,gmail,github,twitter,stackoverflow,html,css,idea,java,docker,js,linux,md,mysql,mongodb,php,postman,selenium,powershell,bash,sublime,sklearn,ubuntu,vim,visualstudio,c,cpp,eclipse,vscode,windows,bootstrap,codepen,latex,matlab,nginx&perline=13" />
+<img src="https://skillicons.dev/icons?i=notion,sublime,obsidian,py,pycharm,qt,vercel,vim,anaconda,redis,jenkins,kotlin,androidstudio,sqlite,gradle,kali,cloudflare,fastapi,flask,django,git,gmail,github,twitter,stackoverflow,html,css,idea,java,docker,js,linux,md,mysql,mongodb,php,postman,selenium,powershell,bash,sublime,sklearn,ubuntu,vim,visualstudio,c,cpp,eclipse,vscode,windows,bootstrap,codepen,latex,matlab,nginx&perline=24" />
 
 ## About Me
 
