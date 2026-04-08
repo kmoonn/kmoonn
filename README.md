@@ -1,4 +1,5 @@
 <div align="center">
+  <img src="src/header_.png"" />
   <h1>👋 Hi, this is Hushan. You can call me kmoon</h1>
   <p><strong>😄 Single moon, countless peaks, Universal spring awakes.</strong></p>
   <p><strong>✍ Heard is familiar, used is proficient</strong></p>
@@ -16,10 +17,8 @@
 <h1>About Me</h1>
 
 <p>
-🚹 Boy
-  
-♈ Aries
-  
+🚹 Boy | ♈ Aries
+
 From Mountain City Chongqing
 
 Town Wrong Title Book
