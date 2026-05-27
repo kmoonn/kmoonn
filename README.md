@@ -19,26 +19,21 @@
 
 <p>
 🚹 Boy | ♈ Aries
+  
+From Chongqing, China 🇨🇳
 
-From Mountain City Chongqing
+Book lover, aspiring writer, and white-hat security beginner
 
-Town Wrong Title Book
-
-Non entry white hat hacker
-
-A small writer of eighteen lines
-
-Master's degree in Software Engineering is currently being pursued
+Currently pursuing a Master's degree in Software Engineering
 
 Nice to meet you.
 
-The future lies ahead, and life continues.
+The future is full of possibilities, and life moves forward.  
+Wherever you are, I hope we can learn, grow, and build something meaningful together.
 
-No matter where you are, we should work together. 
+This page is still under construction. Thanks for stopping by.
 
-Of course, this page is still being updated.
-
-My Baby Girl Moonlight!
+**Moonlight, my baby girl.**
 
 </p>
 
